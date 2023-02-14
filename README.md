@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Ragnar Lothbrok</h1>
-<p><center><a href="mailto:ragnarlothbrokjr@proton.me">Contact Me</a>
+<h4 align="center"><a href="mailto:ragnarlothbrokjr@proton.me">Contact Me</a></h1>
 <p align="center">
     <a href="https://discord.gg/Q3ZhdRJ"><img src="https://img.shields.io/discord/495602800802398212?label=Discord&style=for-the-badge" />
         <a href="https://github.com/RagnarLothbrok-Odin"><img src="https://komarev.com/ghpvc/?username=RagnarLothbrok-Odin&style=for-the-badge" />
