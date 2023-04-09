@@ -25,5 +25,5 @@
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RagnarLothbrok-Odin&show_icons=true&count_private=true&hide=issues&theme=transparent&hide_border=true" alt="RagnarLothbrok-Odin's GitHub Stats" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RagnarLothbrok-Odin&hide=shell&layout=compact&theme=transparent&hide_border=true" alt="RagnarLothbrok-Odin's GitHub stats" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=b06a0656-6de9-4fc1-8e87-359447c31041&theme=transparent&hide_border=true" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RagnarLothbrok&theme=transparent&hide_border=true" />
 </p>
