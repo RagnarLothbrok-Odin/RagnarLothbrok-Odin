@@ -8,7 +8,7 @@
    <a href="https://www.buymeacoffee.com/ragnarlothbrok"><img src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" /></a>
 </p>
 <p align="center">
-   <img src="https://lanyard-profile-readme.vercel.app/api/151516555757223936?theme=dark&borderRadius=30px&idleMessage=😴%20Probably%20sleeping%20😴" alt="Discord status" />
+   <img src="https://lanyard-profile-readme.vercel.app/api/151516555757223936?theme=dark&borderRadius=30px&hideDiscrim=true&idleMessage=😴%20Probably%20sleeping%20😴" alt="Discord status" />
 </p>
 <h2 align="center">🛠️ Tools I work with</h2>
 <p align="center">
